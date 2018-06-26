@@ -1,0 +1,1907 @@
+<Comments>
+DARK AND LIGHT CHEAT CODES AND ITEM IDs
+
+https://www.nexusmods.com/darkandlight/mods/1
+
+If you find any that are incorrect or still blank that in fact do have an item, please let me know in the Posts section.  I will then update the list.
+If there are more ID numbers you checked and found items for, please let me know in the Posts section. I will then update the list.
+
+This current list is up to 860 IDs as of December 2017!
+{/comments}
+Cheat Codes:
+* Logging in as Admin *
+Press "numpad +" or whichever key you have bound your "Toggle Console" keybind in your options and type enablecheats [password].
+(Options > Keybindings > Toggle Console [keep default keybind or select a new one]).
+
+Example = enablecheats pass123
+
+You can also use these cheat codes in single player mode. Single player mode does not need an Admin login nor a password.  Just open the command console and type in the codes.
+</Comments>
+
+<Commands>
+——————————————
+Code and Effect
+——————————————
+
+Showmyadminmanager
+-Enables admin screen
+
+cheat settimeofday 06:30:00
+-Sets time of day to Hr:mn:sc
+
+cheat ce 
+-changes weather
+starttime, stoptime, makeitrain, fogitup
+!!!may not work!!! heatwave, coldfront, start_superheat, stop_superheat, start_sandstorm, stop_sandstorm, start_electricalstorm, stop_electricalstorm, start_rain, stop_rain, "start rain", "stop rain", "start electricalstorm", "stop electricalstorm", "start sandstorm", "stop sandstorm", "start superheat", "stop superheat", Start_Volcano, startquake, stopquake
+
+cheat ToggleInfiniteAmmo
+- Toggles Infinite Ammo , Use again to disable
+
+cheat god 
+- Enables Godmode. You can not die from direct damage or fall damage, but you can still drown, freeze to death, or overheat to death.
+
+cheat fly 
+- Allows you to fly.
+
+cheat walk 
+- Deactivates flying and allows you to walk again.
+
+cheat giveresources 
+- Gives you 50 of all resources.
+
+cheat addexperience 1000 0 0 
+- Gives you 1000xp.  You can change the 1000 value to whatever you'd like.
+- addexperience 1000 0 0  (legal exp award to self and distributed normally to house)
+- addexperience 1000 1 0 (shared 500 xp along house)
+- addexperience 1000 0 1 (Experience awarded to ONLY self or Mount)
+
+cheat infinitestats 
+- Gives you infinite stats.
+
+cheat teleport 
+- Teleports you to coords 0 0 0 (X Y Z).
+
+cheat slomo 5 
+- Changes the speed on the server such as player movement, use slomo 1 to revert to normal speed.
+
+cheat playersonly 
+- Freezes absolutely everything except players; this even includes crafting.
+
+cheat ghost 
+- Turns on noclip; you are able to walk through walls and objects.
+
+cheat destroyallenemies 
+- Destroys all enemies.  They respawn eventually.
+
+cheat enemyinvisible true/false 
+- Makes all creatures ignore you even if you attack them.
+
+cheat destroymytarget 
+- Destroys the object / enemy you are looking at.
+
+stat fps 
+- Shows your fps; usable by anyone.  Commands do not need to be enabled for this.
+
+cheat giveitemnum 299 [quantity] [rarity 0-9] [item/BP 0-1] 
+- Command for coins.
+
+dotame
+- Legal Taming
+forcetame
+- Illegal Forcing taming a creature
+cheat enablespectator
+- Free camera
+stopspectating
+-Stop Camera
+
+settargetdinocolor (color region) (color)
+-Set color for creature
+</commands>
+
+<Items>
+Spawning in items/resources:
+
+You can find the resources folders in your installation folder: Blueprint\Game\PrimalEarth\CoreBlueprints\Items\Resources 
+I did not find such a folder.  I assume the new place for these files will be in: 
+steamapps\common\Dark and Light\DNL\Content\PrimalEarth\CoreBlueprints\Resources 
+
+Admin Cheat GiveItem
+Cheat Giveitemnum (item ID) (quantity) (quality) (0 - Item / 1 - Blueprint)
+
+Example: cheat giveitemnum 1 1 1 0
+
+A quality number from 0-2 usually give Common to Uncommon items.  Give or take.
+A quality number from 3-7 usually give Rare to Epic items.  Give or take.
+A quality number from 8-9 usually give Epic to Legendary items.  Give or take.
+A quality number of 10 or above give Legendary items.  Few here and there may be of Epic quality.  
+
+Note that above 10 doesn't really do anything but ensure Legendary only. For instance, you can use 99 for the quality if you wanted, but stats will still be random and not any better.  I rechecked items; comparing from a quality 10 to a quality of 99 and they actually do get better.  Some by a lot, some by a little.  BUT you can still end up with low quality items with a 99 quality number.  It's just less likely.
+
+All qualities (item stats) are randomly generated.  Meaning if you made Legendary Leather Boots (cheat giveitemnum 131 1 10 0), every time you make them the quality/stats will be different.  You can make ten at a time (cheat giveitemnum 131 10 10 0) and each one will have different stats.
+
+The number after the quality, from what I know, just refers to whether the item is a wearable armour or a blueprint.  If you change the end number "0" to "1", the item will be a blueprint, if applicable. If nothing is spawned, there is no blueprint for the item and you need to use "0" at the end of the code.  Quality works the same for blueprints.
+
+Example: cheat giveitemnum 131 1 0 0 --> Leather Boots
+Example: cheat giveitemnum 131 1 0 1 --> Blueprint of Leather Boots
+
+To quickly find something you are looking for, open the .txt file (download section) in notepad and use the Search > Find... Then type in part of the word/item you're looking for.
+
+——————————————
+Item ID List
+——————————————
+1 Bedroll
+2 Small Chest 
+3 Medium Chest 
+4 ﻿Wall Torch
+5 Bed 
+6 Fireplace
+7 Wooden Sign
+8 Private Storage
+9 Larder Box (curing rack)
+10﻿ Dining Table
+11﻿ Wooden Chair
+12﻿ Cooking Pot
+13﻿ Stone Axe
+14﻿ Stone Sword
+15﻿ Stone Pickaxe
+16﻿ Stone Spear
+17﻿ Wood Bow
+18﻿ Stone Arrow
+19﻿ Throwing Arrow
+20﻿ Crossbow
+21﻿ Unused ID
+22 Small Plot
+23 Medium Plot
+24 Large Plot
+25 Compost Bin
+26 Mortar
+27 Workbench
+28 Forge
+29 Sulfur Powder
+30 Quartz Sand
+31 Ground Bone
+32 Lightstone Sand
+33 Darkstone Sand
+34 Iron Axe
+35 Iron Pickaxe
+36 Iron Scythe
+37 Iron Spear
+38 Stone Hook Arrow
+39 Iron Hook Arrow
+40 Unused ID
+41 Wooden Feeding Trough
+42 Stone Feeding Trough
+43 ﻿Paper
+44 Magic Parchment
+45﻿ Iron Dagger
+46 Iron Sword
+47 Iron Hammer
+48 Iron Greatsword
+49 Unused ID
+50 Tree Bark Shield
+51 - 52 Unused IDs
+53 Summoning Pool
+54 Irrigation Intake
+55 Pipe Cross
+56 Straight Pipe
+57 Slanted Pipe
+58 Vertical Pipe
+59 Spout spiket sprout
+60 Water Reservoir
+61 Sand Table
+62 ﻿﻿ House War Flag
+63 Glass Bottle
+64 Hanglider
+65 Parachute
+66 Boar Saddle
+67 Bargesh Saddle
+68 Vrock Saddle (berunda)
+69 Bahamut Saddle
+70 Wyvern Saddle
+71 Bear Saddle
+72 Panther Saddle
+73 Griffin Saddle
+74 Infernus Dragon Saddle
+75 Unused ID
+76 Grut Stag Saddle
+77 Longhorn Saddle
+78 Horse Saddle
+79 Deer Saddle
+80 Arachane Saddle
+81 Stirge Saddle (waterfly)
+82 Lavatiger Saddle
+83 Nidhog Saddle
+84 Voidray Saddle
+85 Mastodon Saddle
+86 Yeti Saddle
+87 Kodo / Kebo Saddle
+88 Frost Dragon Saddle
+89 - 97 Unused IDs
+98 House Contract Table
+99 Contract
+100﻿ Soul Of Darkness
+101﻿ Soul Of Light
+102 ﻿Unused ID
+103﻿ Small Spell Tower
+104﻿ Canopy
+105﻿ Cooked Meat
+106﻿ Fine Cooked Meat
+107﻿ Cured Meat
+108﻿ Fine Cured Meat
+109﻿ Copper Ingot
+110﻿ Iron Ingot
+111 ﻿Mithril Ingot
+112﻿ Ink
+113﻿ Focus Elixir
+114﻿ Focus Potion
+115﻿ Centaur Wine
+116﻿ Summoning Stone
+117﻿ House Seal
+118﻿ Goblin Contract
+119 ﻿Cooked Mushrooms
+120﻿ Spiced Meat
+121﻿ Silica Powder
+122﻿ Cloth Shirt
+123﻿ Cloth Pants
+124﻿ Cloth Cap
+125 ﻿Cloth Gloves
+126﻿ Cloth Boots
+127﻿ Leather Breastplate
+128 ﻿Leather Pants
+129 ﻿Leather Helmet
+130﻿ Leather Gloves
+131﻿ Leather Boots
+132﻿ Druid Tunic
+133﻿ Druid Pants
+134﻿ Druid Cap
+135 ﻿Druid Gloves
+136 ﻿Druid Boots
+137 ﻿Copper Breastplate
+138﻿ Copper Pants
+139﻿ Copper Helmet
+140﻿ Copper Gloves
+141﻿ Copper Boots
+142 ﻿Fur Breastplate
+143﻿ Fur Pants
+144﻿ Fur Cap
+145﻿ Fur Gloves
+146 ﻿Fur Boots
+147 ﻿Mithril Breastplate
+148 ﻿Mithril Pants
+149﻿ Mithril Helm
+150﻿ Mithril Gloves
+151﻿ Mithril Boots
+152﻿ Mithril Robe
+153 ﻿Mithril Light Leggings
+154﻿ Mithril Hat
+155﻿ Mithril Robe Gloves
+156﻿ Mithril Shoes
+157﻿ Breastplate Of Darkness
+158﻿ Darkstone Pants
+159﻿ Darkstone Helm
+160﻿ Darkstone Gloves
+161﻿ Darkstone Boots
+162﻿ Robe Of Lightsone
+163﻿ Pants Of Lightstone
+164﻿ Hat Of Lightstone
+165﻿ Gloves Of Lightstone
+166﻿ Shoes Of Lightstone
+167﻿ Brimstone Tunic
+168﻿ Brimstone Pants
+169﻿ Brimstone Gloves
+170﻿ Brimstone Boots
+171﻿ Brimstone Hood
+172﻿ Icewind Robe
+173﻿ Icewind Pants
+174﻿ Icewind Gloves
+175﻿ Icewind Shoes
+176 ﻿Icewind Hood
+177﻿ Iron Breastplate
+178﻿ Iron Pants
+179﻿ Iron Gloves
+180﻿ Iron Boots
+181﻿ Iron Helm
+182﻿ Ranger Tunic
+183﻿ Ranger Pants
+184 ﻿Ranger Gloves
+185 ﻿Ranger Boots
+186 ﻿Ranger Helm
+187﻿ Magic Essence
+188﻿ Fire Essence
+189﻿ Water Essence
+190﻿ Air Essence
+191﻿ Earth Essence
+192﻿ Light Essence
+193﻿ Dark Essence
+194﻿ Chaos Essence
+195﻿ Magic Altar
+196 ﻿Spell Tower
+197 ﻿Spell Generator
+198 ﻿Spell Tower Ammo
+199 ﻿Sorcerer Staff
+200 ﻿Druid Staff
+201﻿ Celestial Staff
+202﻿ Battlemage Staff
+203﻿ Drain Spell
+204﻿ Rune Of Restoration
+205﻿ Rune Of Warmth
+206﻿ Rune Of Light
+207﻿ Rune Of Radiance
+208﻿ Fireball 1
+209﻿ Fireball 2
+210﻿ Fireball 3
+211 ﻿Frostbolt 1
+212 ﻿Frostbolt 2
+213 ﻿Frostbolt 3
+214 ﻿Lightning Bolt 1
+215﻿ Lightning Bolt 2
+216﻿ Lightning Bolt 3
+217﻿ Polymorph
+218 ﻿Unused ID
+219﻿ Rune Of Haste
+220﻿ Unused ID
+221﻿ Arctic Illusion
+222﻿ Rune Of Deathstalker
+223 ﻿Rune Of Wyvern
+224﻿ Wall Of Fire
+225﻿ Wall Of Ice
+226﻿ Wall Of Lightning
+227﻿ Firestorm 1 
+228﻿ Firestorm 2
+229﻿ Hailstorm 1
+230 ﻿Hailstorm 2
+231﻿ Telekinesis
+232﻿ Dark Vision
+233﻿ Rune Of Guidance
+234 ﻿Resurrection Altar
+235 ﻿Planar Gate
+236 ﻿Rune Of Recall
+237 ﻿Flame Missile
+238﻿ Rune Of Soul Binding
+239﻿ Rune Of Greater Soul Binding
+240 ﻿Acid Extract
+241-262 Unused IDs
+263 Small Fertilizer
+264 Medium Fertilizer
+265 Large Fertilizer
+266 Herbivore Feed
+267 Carnivore Feed
+268 Mystical Feed
+269 Magic Shards
+270 Grass
+271 Straw
+272 Field Flowers
+273 Blueberries
+274 Field Mushroom
+275 Wood
+276 Charcoal
+277 Twine
+278 Apples
+279 Stone
+280 Sulfur Ore
+281 Copper Ore
+282 Iron Ore
+283 Mithril Ore
+284 Lightstone
+285 Darkstone
+286 Bones
+287 Raw Meat
+288 Fine Raw Meat
+289 Rotten Meat
+290 Ice Chunk
+291 Fur
+292 Hide
+293 Fire Element Core
+294 Water Element Core
+295 Earth Element Core
+296 Air Element Core
+297 Light Element Core
+298 Dark Element Core
+299 Gold Coin
+300 Fire Blossom
+301﻿ Fire Blossom Seed
+302 Snow Lotus
+303 Snow Lotus Seed
+304 Terra Flower
+305 Terra Flower Seed
+306 Thundergrass
+307 Thundergrass Seed
+308 Light Blossom
+309 Light Blossom Seed
+310 Darkweed
+311 Darkweed Seed
+312 Nightcap Mushroom
+313 Deathcap Mushroom
+314 Vigor Mushroom
+315 Whitecap Mushroom
+316 Fungal Spores
+317 Wheat
+318 Wheat Seed
+319 Cooking Herb
+320 Luck Clover
+321 Shrub Seedling
+322 Glass Bottle
+323 Horse Saddle
+324 Qinaryss' Key
+325 Stormbreaker Glaive
+326 ---------- Unused
+327 (Straw) Shabby Foundation
+328 (Straw) Shabby Door Frame
+329 (Straw) Shabby Ceiling
+330 (Straw) Shabby Wall
+331 (Straw) Shabby Door
+332 Triangle (Straw) Shabby Left Wall
+333 Triangle (Straw) Shabby Right Wall
+334 Slanted (Straw) Shabby Roof
+335 (Straw) Shabby Dormer
+336 (Wood) Simple Foundation
+337 (Wood) Simple Wall
+338 (Wood) Simple Ceiling
+339 Triangle (Wood) Simple Wall Left
+340 Triangle (Wood) Simple Wall Right
+341 Slanted (Wood) Simple Roof
+342 (Wood) Simple Door Frame
+343 (Wood) Simple Door
+344 (Wood) Simple Window Frame
+345 (Wood) Simple Steps
+346 (Wood) Simple Skylight
+347 (Wood) Simple Skylight Hatch
+348 (Wood) Simple Wall Spikes
+349 (Wood) Simple Barrier Door
+350 (Wood) Simple Barrier Door Frame
+351 (Wood) Simple Barrier
+352 (Wood) Simple Railing
+353 Giant (Wood) Simple Beast Gate Frame
+354 Giant (Wood) Simple Beast Gate
+355 Large (Wood) Simple Beast Gate Frame
+356 Large (Wood) Simple Beast Gate
+357 (Wood) Simple Window
+358 (Wood) Simple Column
+359 (Wood) Simple Ladder
+360 (Wood) Simple Rectangle Foundation
+361 (Stone) Firm Foundation
+362 (Stone) Firm Wall
+363 (Stone) Firm Ceiling
+364 Triangle (Stone) Firm Wall Left
+365 Triangle (Stone) Firm Wall Right
+366 Slanted (Stone) Firm Roof
+367 (Stone) Firm Door Frame
+368 (Stone) Firm Column
+369 Tiled (Stone) Firm Roof
+370 (Stone) Firm Skylight Frame
+371 (Stone) Firm Skylight Hatch
+372 Archer (Stone) Firm Door
+373 Archer (Stone) Firm Wall
+374 (Stone) Firm Window Frame
+375 (Stone) Firm Window
+376 (Stone) Firm Ladder
+377 (Stone) Firm Door
+378 (Stone) Firm Steps
+379 Curved (Stone) Firm Ladder
+380 Giant (Stone) Firm Beast Gate Frame
+381 Giant (Stone) Firm Beast Gate
+382 Large (Stone) Firm Beast Gate Frame
+383 Large (Stone) Firm Beast Gate
+384 (Stone) Firm Rectangle Foundation
+385 (Iron) Rugged Ceiling
+386 (Iron) Rugged Skylight
+387 (Iron) Rugged Skylight Frame
+388 (Iron) Rugged Door
+389 (Iron) Rugged Door Frame
+390 (Iron) Rugged Foundation
+391 Archer (Iron) Rugged Door
+392 (Iron) Rugged Ladder
+393 (Iron) Rugged Column
+394 Archer (Iron) Rugged Wall
+395 (Iron) Rugged Steps
+396 Slanted (Iron) Rugged Roof
+397 Triangle (Iron) Rugged Left Wall
+398 Triangle (Iron) Rugged Right Wall
+399 (Iron) Rugged Wall
+400 (Iron) Rugged Window Frame
+401 (Iron) Rugged Window
+402 (Iron) Rugged Wall Spike
+403 (Iron) Rugged Barrier Door
+404 (Iron) Rugged Barrier Door Frame
+405 (Iron) Rugged Barrier
+406 (Iron) Rugged Rail
+407 (Iron) Rugged Rectangle Foundation
+408 Framework Ceiling
+409 Door
+410 Door Frame
+411 Foundation
+412 Column
+413 Stairs
+414 Slanted Roof
+415 Left Gable
+416 Right Gable
+417 Wall
+418 Rectangle Foundation
+419 --- 421 Unused IDs
+422 Castle Of Hope Ceiling
+423 Castle of Hope Skylight
+425 Castle of Hope Door
+426 Castle of Hope Door Frame
+427 ----- unused
+428 Castle of Hope Foundation
+429 Castle of Hope Great Gate Frame (With Foundation)
+430 Castle of Hope Great Gate
+431 Castle of Hope Great Gate Frame (Without Foundation)
+432 Castle of Hope Giant Gate Frame (With Foundation)
+433 Castle of Hope Giant Gate
+434 Castle of Hope Giant Gate Frame (Without Foundation)
+435 Castle of Hope Buttress
+436 Castle of Hope Support
+437 Castle of Hope Steeple
+438 Castle of Hope Wall
+439 ------ unused
+440 Castle of Hope Window Frame
+441 Castle of Hope Engraved Wall
+442 Castle of Defense Arched Ceiling (Human Manor)
+443 Castle of Defense Arched Buttress (Human Manor)
+444 Castle of Defense Arched Wall (Human Manor)
+445 Castle of Defense Ceiling (Human Manor)
+445 Castle of Defense Skylight (Human Manor)
+447 Castle of Defense Skylight Frame (Human Manor)
+448 Castle of Defense Door (Human Manor)
+449 Castle of Defense Door Frame (Human Manor)
+450 Flag Castle Human
+451 Castle of Defense Foundation (Human Manor)
+452 Castle of Defense Great Gate Frame (With Foundation) (Human Manor)
+453 Castle of Defense Great Gate (Human Manor)
+454 Human Manor Great Door Frame
+455 Castle of Defense Giant Gate Frame (With Foundation) (Human Manor)
+456 Castle of Defense Giant Gate (Human Manor)
+457 Human Manor Giant Door Frame
+458 Castle of Defense Buttress (Human Manor)
+459 Castle of Defense Support (Human Manor)
+460 Castle of Defense Steeple (Human Manor)
+461 Castle of Defense Wall (Human Manor)
+462 Castle of Defense Archers Wall (Human Manor)
+463 Castle of Defense Window Frame (Human Manor)
+464 ----- unused
+465 ----- unused
+466 ----- unused
+467 ----- unused
+468 Manor Framework Ceiling
+469 ----- unused
+470 ----- unused
+471 door
+472 door frame
+474 foundation
+475 great gate frame w/
+476 great gate
+477 great gate frame w/o
+478 giant gate frame w/
+479 giant gate
+480 giant gate frame w/o
+481 buttress
+482 column
+483 steeple
+484 wall
+488 large chest
+489 wood shield ( Bronze Shield)
+490 iron trimmed shield
+491 lion heart shield
+492 dragonscale shield
+493 mithril shield
+494 darkstone shield
+495 lightstone shield
+496 woodland illusion
+497 marshland illusion
+498 highland illusion
+499 arctic illusion
+500 volcanic illusion
+501 (Wood) Simple triangle foundation
+502 (Wood) Simple triangle ceiling
+503 (Stone) Firm triangle foundation
+504 (Stone) Firm triangle ceiling
+505 (Iron) Rugged triangle foundation
+506 (Iron) Rugged triangle ceiling
+507 virtual triangle foundation
+508 virtual triangle ceiling
+509 stone pipe intake
+510 stone pipe cross
+511 stone pipe straight
+512 stone pipe slant
+513 stone pipe vertical
+514 stone pipe spigot
+538 soul suppress stone
+539 rune of cooling
+540 cobweb crystal ball
+541 rune of gravity 1
+542 rune of gravity 2
+543 rune of gravity 3
+544 bursting arrow 1
+545 bursting arrow 2
+546 bursting arrow 3
+547 bursting arrow 4
+548 bursting arrow 5
+549 freezing arrow 1
+550 freezing arrow 2
+551 freezing arrow 3
+552 freezing arrow 4
+553 freezing arrow 5
+554 poison arrow 1
+555 poison arrow 2
+556 poison arrow 3
+557 poison arrow 4
+558 poison arrow 5
+559 dark arrow 1
+560 dark arrow 2
+561 dark arrow 3
+562 dark arrow 4
+563 dark arrow 5
+564 holy arrow 1
+565 holy arrow 2
+566 holy arrow 3
+567 holy arrow 4
+568 holy arrow 5
+569 siege arrow 1
+570 siege arrow 2
+571 siege arrow 3
+572 siege arrow 4
+573 siege arrow 5
+574 standing torch
+575 brazier
+576 berry jam
+577 stone hammer (Goblin Stick)
+578 small soul suppress stone
+579 resetting potion
+580 ghost scythe
+581 small goblin gizmo part (item 0195)
+582 goblin ballista (item 0194)
+583 frost helmet (item 0075)
+584 healing light staff
+585 winding staff head ( Entangling Vines Staff Head )
+586 advanced magic extraction staff
+587 rune of restoration II
+588 telescope
+589 frostblade weight 24
+590 force bow weight 16
+591 skullcracker weight 36
+592 enchanting workbench
+593 soulbound scroll
+594 Flame Essence
+595 Frost Essence
+596 Rock Essence
+597 Storm Essence
+598 Shade Essence
+599 Glow Essence
+600 tamed hive
+601 royal jelly
+602 honey
+603 house medical flag
+604 dried apple
+605 wheat flour
+606 vanilla tea
+607 lotus tea
+608 mushroom soup
+609 bone soup
+610 mandrake soup
+611 bread
+612 fruit pie
+613 assorte sandwich
+614 crispy steak
+615 spicy bacon
+616 uncommon grass (green)
+617 rare grass
+618 uncommon wood
+619 rare wood
+620 uncommon flower
+621 rare flower
+622 uncommon field mushroom
+623 rare field mushroom
+624 uncommon raw meat
+625 rare raw meat
+626 uncommon hide
+627 rare hide
+628 uncommon stone
+629 rare stone
+630 Gem
+631 uncommon gem
+632 rare gem
+633 advanced motar n pestle
+634 ----- unused
+635 Bytorgs prong
+636 Bytorgs icy Tendon
+637 Soul of Bytorg
+638 Bytorg Toolbox Key
+639 frozen crystal ore
+640 albino deer saddle
+641 vicious hyena saddle
+642 savage cyclops saddle
+643 cyclops ammo
+644 delicate carnivore feed
+645 delicate herbivore feed
+646 enchanted metal alloy
+647 refined gold alloy
+648 refined metal alloy
+649 refined square cast
+650 refined obsidian block
+651 guard sabatons (boots) (NPC)
+652 guard gauntlets (NPC)
+653 guard helm (NPC)
+654 guard greaves (NPC)
+655 guard breastplate (NPC)
+656 estle guard shoes (NPC)
+657 estle guard gloves (NPC)
+658 ----- unused
+659 estle guard pants (NPC)
+660 estle guard cloth (NPC)
+661 Bytorg’s Sabatons (Frostbound)
+662 Bytorg’s Gauntlets (Frostbound)
+663 Bytorg’s Greaves (Frostbound)
+664 Bytorg’s Breastplate (Frostbound)
+665 Forging Workbench
+666 Bytorg Paw
+667 Bytorg Tibia
+668 Bytorg Spine
+669 Bytorg anklebone
+670 Refining Forge
+671 Traveler’s Shoe (Ranger)
+674 Traveler’s Leggings (Ranger)
+675 Traveler’s Tunic (Ranger)
+676 Traveler’s Tunic (Ranger)
+677 Mithril Shoes
+679 Mithril Hat
+680 ----- unused
+681 Mithril Light Breastplate
+682 workers shoe
+683 workers gloves
+684 ----- unused
+685 workers leggins
+686 workers tunic
+687 primeval boots
+688 primeval gloves
+689 ----- unused
+690 primeval pants
+691 primeval shirt
+692 mithril sabatones
+693 mithril gauntlets
+694 —
+695 Mithril heavy greaves
+696 Mithril Heavy Breastplate
+697 Icewind Shoes
+698 ----- unused
+699 Icewind Hat
+700 Icewind leggins
+701 Icewind Tunic
+702 Shoes of Light
+705 Pants of Light
+706 Robe of Light
+707 Boots of Darkness
+708 Gauntlets of Darkness
+709 Helm of Darkness
+710 Greaves of Darkness
+711 Helm of Darkness Breastplate 
+712 Darkstone Boots
+713 darkstone Guantlets
+714 ----- unused
+715 Darkstone Greaves
+716 Darkstone Breastplate
+717 Lava Shoes
+718 Lava Gloves
+719 Lava Hat
+720 Lava Leggins
+721 Lava Tunic
+722 Castle of festivity ceiling
+723 Manor Framework Arched Ceiling
+724 Castle of festivity arched door
+725 Castle of festivity arched door frame
+726 Castle of festivity arched conical roof
+727 Castle of festivity arched buttress
+728 Manor Framework arched buttress
+729 Castle of festivity arched wall
+730 manor Framework arched wall
+731 Castle of festivity arched Archers wall
+732 Castle of festivity arched window frame
+733 Castle of Defense gate w foundation
+734 Castle of Defense giant gate w foundation
+735 Castle of festivity ramp
+736 Castle of Defense Ramp
+737 Castle of Hope Ramp
+738 Castle of festivity small column 
+739 Castle of festivity small column (seems to be wrong name – icon shows large)
+740 virtual castle small column 
+741 Castle of Hope sml Column 
+742 (Iron) Ruggedized beam
+743 (Stone) Firm beam
+744 (Wood) Simple beam
+745 (Iron) Ruggedized turnover door
+746 (Stone) Firm turnover door
+747 (Wood) Simple turnover door
+748 (Iron) Ruggedized turnover door frame
+749 (Stone) Firm turnover door frame
+750 (Wood) Simple turnover door frame
+751 slanted (Wood) Simple roof
+752 reinforced (Iron) Ruggedized gatedoor
+753 reinforced (Iron) Ruggedized gateframe
+754 reinforced (Iron) Ruggedized huge gate door
+755 reinforced (Iron) Ruggedized huge gate frame
+756 (Stone) Firmed arched steeple
+757 (Wood) Simple arched steeple
+758 Frozen Gateway
+759  ----- unused
+760  ----- unused
+761  ----- unused
+762  ----- unused
+763  ----- unused
+764  ----- unused
+765  ----- unused
+766  ----- unused
+767  ----- unused
+768  ----- unused
+769  ----- unused
+770  ----- unused
+771  ----- unused
+772  ----- unused
+773  ----- unused
+774  ----- unused
+775  ----- unused
+776  ----- unused
+777  ----- unused
+778 Thorn Sheild
+779 Sunder scythe
+780 Claw
+781 Fang
+782 scales
+783 hooves
+784 wyvern leather
+785 deathstalker pelt
+786 elk antler
+787 wolf pelt
+788 bear pelt
+789 yeti pelt
+790 unicorn horn
+791 fafnir leather
+792 gryffin feathers
+793 moonstone
+794 wool
+795 pumpkin seed
+796 goblin candy (Heal 50+)
+797 stone steps
+798 magicka base
+799 guardian tree
+800 bear shapeshift rune
+801 deathstalker shapeshift rune
+802 elk shapeshift rune
+803 gryphon shapeshift rune
+804 nidhog shapeshift rune
+805 unicorn shapeshift rune
+806 wolf shapeshift rune
+807 wyvern shapeshift rune
+808 yeti shapeshift rune
+809 blunderbuss / fusil
+810 candy bullet
+811 silver bullet
+812 pumpkin helm
+813 pumpkin
+814 pumpkin pie
+815 tree heart solvent 
+816 essence of life energy
+817 jack-o lantern
+818 goblin candy (vigor +50)
+819 goblin candy (dps +25%)
+820 goblin candy (decrease mana)
+821 goblin candy (goblin transformation 460 sec)
+822 goblin candy (narco pops)
+823 gobelin candy (starvitlles)
+824 werewolf shapeshift rune
+825 Soul Mire
+826 Devil Bringer
+827 Harvesting Sickle
+828 Bonfire
+829 Stone (Rune) of Warmth II
+830 Stone of Cooling 2
+831 Empty
+832  ----- unused
+833 Balefire Sabaton (copy)
+834 Balefire Sallet
+835 Balefire Cuirass
+836 Balefire Gage
+837 Balefire Chausses
+838 Balefire Sabaton
+839 Anthracite
+840 Chipped Flint
+841 Ashen Flux
+842 Bel'xahl's Wing Barb
+843 Bel'xahl's Femur
+844 Bel'xahl's Horn
+845 Bel'xahl's Key
+846 Bel'xahl's Spirit Shard
+847 Bel'xahl's Spur
+848 Bel'xahl's Claw
+849 Bel'xahl's Vertebra
+850 Searing Edge
+851 Grill
+852 Spell Generator
+853 Divine Blessing
+854 Goblin (Skin)
+855 Undead Dragon (Skin)
+856 DAL Bed (Do not use yet, they cannot be destroyed: December 2017)
+857 Fancy Chair
+858 Candle Stand
+859 Generic Consumable
+860 Huge Chest
+861 Carrot
+862 Carrot Seeds
+863 Black Dye
+864 Blue Dye
+865 Brick Red Dye
+866 Cantaloupe Dye
+867 Cyan Dye
+868 Forest Green Dye
+869 Gray Dye
+870 Green Dye
+871 Purple Dye
+872 Navy Dye
+873 Olive Dye
+874 Orange Dye
+875 Parchment Dye
+876 Pink Dye
+877 Different Purple Dye
+878 Red Dye
+879 Royalty Dye
+880 Silver Dye
+881 Sky Blue Dye
+882 Tangerine Dye
+883 White Dye
+884 Yellow Dye
+885 Paint Wand
+886 Hot Spring Energy
+887 Rune of Harmony
+888 Rune of Quenching
+889 Reindeer Saddle
+890 Snowman
+891 Holiday Tree
+892 Holiday Elk Saddle
+893 Holiday Elk (Costume)
+894 Diamond
+895 Lump of Coal
+896 Carrot
+897 Top Hat (Festive)
+898 ShipYard
+899 SkyFortress Rein
+900 Warehouse Door
+901 Deck Door
+902 Cabin Port
+906 Carnival Fireworks
+907 Blessing Fireworks
+908 Celebration Fireworks
+909 Fete Fireworks
+910 Magic Heavy Cannon
+911 Magic Cannon Ball
+912 Aether Sac
+913 Cloudburst Greaves
+914 Cloudburst Bracers
+915 Cloudburst Headdress
+916 Cloudburst Shendyt
+917 Cloudburst Collar
+</Items>
+
+<Creatures>
+
+<legendaryCreatures>
+Creatures in this list repeat once or twice in the normal listing as well
+
+Elite Banshee = Elite Nidhog: Evolving
+cheat SpawnDino "Blueprint'/Game/Mods/DarkAndLight/object/Monster/Banshee/EliteBanshee_Character_BP.EliteBanshee_Character_BP'" 1 1 1 10 ( X Y Z LVL (Higher Than 120 May Lag))  
+ 
+cheat summon EliteBanshee_Character_BP_c
+
+
+Elite Gryphon: Evolving
+cheat SpawnDino "Blueprint'/Game/Mods/DarkAndLight/object/Monster/Gryphon/EliteGryphon_Character_BP.EliteGryphon_Character_BP'" 1 1 1 10 ( X Y Z LVL (Higher Than 120 May Lag))  
+ 
+cheat summon EliteGryphon_character_bp_c
+
+
+Elite Kebo: Evolving
+cheat SpawnDino "Blueprint'/Game/Mods/DarkAndLight/object/Monster/Kodo/EliteKodo_Character_BP.EliteKodo_Character_BP'" 1 1 1 10 ( X Y Z LVL (Higher Than 120 May Lag)) 
+ 
+cheat summon EliteKodo_Character_BP_c
+
+
+Elite Nidhog: Evolving
+cheat SpawnDino "Blueprint’/Game/Mods/DarkAndLight/object/Monster/Banshee/EliteBanshee_Character_BP.EliteBanshee_Character_BP'” 1 1 1 10 ( X Y Z LVL (Higher Than 120 May Lag))  
+ 
+ 
+cheat summon elitebanshee_character_bp_c
+
+Elite Unicorn: Evolving
+cheat Spawndino "Blueprint'/Game/Mods/DarkAndLight/object/Monster/Unicorn/EliteUnicorn_Character_BP.EliteUnicorn_Character_BP'” 1 1 1 10 ( X Y Z LVL (Higher Than 120 May Lag))
+
+cheat summon eliteunicorn_character_bp_c
+
+
+Colossus: Legendary
+cheat SpawnDino "Blueprint'/Game/Mods/DarkAndLight/object/Monster/Mushan_Beast/MushanBeast_Character_BP.MushanBeast_Character_BP'" 1 1 1 10 ( X Y Z LVL (Higher Than 120 May Lag)) 
+ 
+cheat summon mushanbeast_character_bp_c	
+
+
+Peregreif: Legendary
+cheat SpawnDino "Blueprint'/Game/Mods/DarkAndLight/object/Monster/Griffin/Griffin_Character_BP.Griffin_Character_BP'" 1 1 1 10 ( X Y Z LVL (Higher Than 120 May Lag))
+ 
+cheat summon griffin_character_bp_c
+
+Windrider (Huge powerful Dragon)Fafnir : Legendary
+cheat SpawnDino "Blueprint'/Game/Mods/DarkAndLight/object/Monster/leonopteryx/leonopteryx_Character_BP.leonopteryx_Character_BP'" 1 1 1 10 ( X Y Z LVL (Higher Than 120 May Lag))  
+
+cheat summon leonopteryx_Character_bp_c
+</legendaryCreatures>
+
+types of summoning
+Cheat SpawnDino (Path)
+Cheat Summon (type) 
+cheat gmsummon "(type)" lv (will be boosted as if tamed)
+
+Spawning in a creature or NPC:
+
+To spawn a creature/enemy/NPC type in the console:
+cheat summon (Creature ID)
+
+Example: cheat summon ghost_character_bp_c
+Using the cheat summon will spawn the creature with a random level in front of you.
+
+cheat spawndino (Creature ID) (XYZ coords) (Level)
+
+When using the cheat spawndino command, it requires 5 parameters: filepath, Xcoord, Ycoord, Zcoord, Level
+The X, Y, Z coords start from the distance of your character.  So 1 1 1 will spawn it right in front of you.  Level will be the level of the creature that is spawned.  You can take the command below and replace the path with the desired creature path and adjust level.
+Example: cheat spawndino "Blueprint'/Game/Mods/DarkAndLight/object/Monster/Firecara1/Firecara1_Character_BP.Firecara1_Character_BP'" 5 5 5 10
+The above will spawn in a level 10 Flarehorn right in front of you.
+
+This might not be a full list of creatures due to game updates.  You can find the creature folders in your installation folder for more creatures if any were added: 
+steamapps\common\Dark and Light\DNL\Content\Mods\DarkAndLight\object\Monster
+——————————————
+Creature/Enemy/NPC ID’s Using "cheat summon"
+——————————————
+
+Summoning Creatures:
+
+Wraith --> Ghost_Character_bp_c
+Gryphon --> Gryphon_Character_bp_c
+Cyclops --> Cyclops_Character_bp_c
+Wyvern --> Wyvern_Character_bp_c
+Horse --> Horse_Character_bp_c
+Fire Imp --> Balrog_Character_bp_c
+Goblin --> Goblin_Character_bp_c
+Unicorn --> Unicorn_Character_bp_c
+Pegasus --> Pegasus_Character_bp_c
+Wolf --> Wolf_Character_bp_c
+Skeleton --> Skeleton_Character_bp_c
+Stirge --> Hydrellia_Character_bp_c
+Elephant --> Elephant_Character_bp_c
+Panther --> Panther_Character_bp_c
+
+Summoning NPC's: Humans
+Sol Graves: NPC_F_0006_Character_BP_c 
+Corben Thames: NPC_M_0013_Character_BP_c 
+Bogar Thonn: NPC_M_0015_Character_BP_c 
+Gunther Smith: NPC_M_0019_Character_BP_c 
+Artemis Payne: NPC_M_0102_Character_BP_c 
+Crossbow Guard: NPC_M_0104_Character_BP_c 
+Magic Patrol Guard: NPC_M_0105_PatrolGuard_Character_BP_c 
+Melee Plate Guard: NPC_F_0101_PatrolGuard_Character_BP_c 
+Female Peasant: NPC_F_0003_Noblewoman_Character_BP_c 
+Noblewoman: NPC_F_0004_Character_BP_c 
+Human Nobleman: NPC_M_0012_Character_BP_c 
+Magic Guard Female: NPC_F_0103_PatrolGuard_Character_BP_c 
+Inn Keeper Liana Emore: NPC_F_1002_Character_BP_c 
+Citizen: NPC_F_2101_HumanCitizen_Character_BP_c 
+Female Sentry: NPC_F_0102_Character_BP_c
+
+Spawning NPC's: Elf
+
+Vessali Fa'arin: NPC_F_1104_Priest_Character_BP_c
+Taluriel Faeliss: NPC_M_1004_Character_BP_c 
+Elisia: NPC_F_1106_PotrolGuard_Sword_Character_BP_c 
+Ranged Sentry Guard: NPC_M_1102_SentyGuard_Range_Character_BP_c 
+Elf Ranged Sentry: NPC_M_1103_SentyGuard_Staff_Character_BP_c 
+Gwynien: NPC_M_1106_PotrolGuard_Spear_Character_BP_c 
+Elidor El'idan: NPC_M_2104_Busi_Character_BP_c 
+Inn Keeper Freylith Willows: NPC_F_1001_Inn_Character_BP_c 
+Zahir Duravine: NPC_F_1005_Character_BP_c 
+Ranged Novaile: NPC_F_1102_SentyGuard_Range_Character_BP_c 
+Magic Guard: NPC_F_1103_PatrolGuard_Character_BP_c 
+Elf Citizen: NPC_F_2101_ElfCitizen_Character_BP_c
+
+Spawning NPC's: Dwarf
+
+Magic Seller Den: NPC_F_2004_Character_Wizard_BP
+Darmok Thunderhoof: NPC_M_2001_Character_Hunter_BP_c 
+Mattlock Coalvale: NPC_M_2002_Character_Cleric_BP_c 
+Armorer Sindri: NPC_M_2007_Character_BP_c 
+Magic Sentry Guard: NPC_M_2103_PotrolGuard_Range_Character_c 
+Melee Sentry Guard: NPC_M_2105_PotrolGuard_Axe_Character_BP_c 
+Ranged Sentry Guard: NPC_M_2106_PotrolGuard_HackButter_Character_BP_c 
+Alchemist: NPC_F_2003_Character_BP_c 
+Dwarf Citizen: NPC_F_2101_DrawfCitizen_Character_BP_c 
+Dwarf Magic: NPC_F_2105_PotrolGuard_Axe_Character_BP_c 
+Ranged Sentry: NPC_F_2106_SentyGuard_HackButter_Character_BP_c
+
+——————————————
+Creature ID’s Using "cheat spawndino"
+——————————————
+
+Albino Deer: 
+cheat SpawnDino "Blueprint'/Game/Mods/DarkAndLight/object/Monster/Albino_Deer/Albino_Deer_Character_BP.Albino_Deer_Character_BP'" 1 1 1 10 ( X Y Z LVL (Higher Than 120 May Lag)) 
+
+cheat Summon Albino_Deer_Character_bp_c
+
+
+Alligar (Fish): 
+cheat SpawnDino "Blueprint'/Game/Mods/DarkAndLight/object/Monster/Alligar/Alligar_Character_BP.Alligar_Character_BP'" 1 1 1 10 ( X Y Z LVL (Higher Than 120 May Lag))  (Might only work in water)
+
+cheat summon Alligar_character_bp_c
+
+
+Bahamut = Firecara1: 
+cheat SpawnDino "Blueprint'/Game/Mods/DarkAndLight/object/Monster/Firecara1/Firecara1_Character_BP.Firecara1_Character_BP'" 1 1 1 10 ( X Y Z LVL (Higher Than 120 May Lag)) 
+
+cheat summon Firecara1_Character_BP_c
+
+Balrog = Fire Imp: 
+cheat SpawnDino "Blueprint'/Game/Mods/DarkAndLight/object/Monster/Balrog/Balrog_Character_BP.Balrog_Character_BP'" 1 1 1 10 ( X Y Z LVL (Higher Than 120 May Lag))
+
+cheat summon Balrog_Character_bp_c
+
+
+Banshee = Nidhog (Dragon): 
+cheat SpawnDino "Blueprint'/Game/Mods/DarkAndLight/object/Monster/Banshee/Banshee_Character_BP.Banshee_Character_BP'" 1 1 1 10 ( X Y Z LVL (Higher Than 120 May Lag)) 
+ 
+cheat summon banshee_Character_bp_c
+
+Bargesh: 
+cheat SpawnDino "Blueprint'/Game/Mods/DarkAndLight/object/Monster/Hyena/Hyena_Character_BP.Hyena_Character_BP'" 1 1 1 10 ( X Y Z LVL (Higher Than 120 May Lag)) 
+
+cheat summon Hyena_character_bp_c
+
+
+Bear: 
+cheat SpawnDino "Blueprint'/Game/Mods/DarkAndLight/object/Monster/Bear/Bear_Character_BP.Bear_Character_BP'" 1 1 1 10 ( X Y Z LVL (Higher Than 120 May Lag))  
+
+cheat summon bear_Character_bp_c	
+
+
+Boa: 
+cheat SpawnDino "Blueprint'/Game/Mods/DarkAndLight/object/Monster/Boa/Boa_Character_BP.Boa_Character_BP'" 1 1 1 10 ( X Y Z LVL (Higher Than 120 May Lag))  
+
+cheat summon Boa_Character_bp_c	
+
+
+Boar: 
+cheat SpawnDino "Blueprint'/Game/Mods/DarkAndLight/object/Monster/Boarnew/Boarnew_Character_BP.Boarnew_Character_BP'" 1 1 1 10 ( X Y Z LVL (Higher Than 120 May Lag)) 
+
+cheat summon BoarNew_character_bp_c	
+
+
+Bramblehopper = Rabbit (Bunny): 
+cheat SpawnDino "Blueprint'/Game/Mods/DarkAndLight/object/Monster/rabit/rabit_Character_BP.rabit_Character_BP'" 1 1 1 10 ( X Y Z LVL (Higher Than 120 May Lag))  
+
+cheat summon rabit_character_bp_c
+
+Centaur Lancer: 
+cheat SpawnDino "Blueprint'/Game/Mods/DarkAndLight/object/Monster/Centaur/Centaur_Character_BP.Centaur_Character_BP'" 1 1 1 10 ( X Y Z LVL (Higher Than 120 May Lag)) 
+ 
+cheat summon Centaur_character_bp_c
+
+
+Centaur Shieldman: 
+cheat SpawnDino "Blueprint'/Game/Mods/DarkAndLight/object/Monster/CentaurShieldman/CentaurShieldman_Character_BP.CentaurShieldman_Character_BP'" 1 1 1 10 ( X Y Z LVL (Higher Than 120 May Lag)) 
+ 
+cheat summon CentaurShieldman_character_bp_c
+
+
+Centaur Spearman Chieftain: 
+cheat SpawnDino "Blueprint'/Game/Mods/DarkAndLight/object/Monster/Centaur/BossCentaur_Character_BP.BossCentaur_Character_BP'" 1 1 1 10 ( X Y Z LVL (Higher Than 120 May Lag)) 
+ 
+cheat summon BossCentaur_Character_BP_c
+
+
+Centaur Vanguard Chieftain: 
+cheat SpawnDino "Blueprint'/Game/Mods/DarkAndLight/object/Monster/CentaurShieldman/BossCentaurShieldman_Character_BP.BossCentaurShieldman_Character_BP'" 1 1 1 10 ( X Y Z LVL (Higher Than 120 May Lag)) 
+ 
+cheat summon BossCentaurShieldman_Character_BP_c
+
+
+Colossus: Legendary
+cheat SpawnDino "Blueprint'/Game/Mods/DarkAndLight/object/Monster/Mushan_Beast/MushanBeast_Character_BP.MushanBeast_Character_BP'" 1 1 1 10 ( X Y Z LVL (Higher Than 120 May Lag)) 
+ 
+cheat summon mushanbeast_character_bp_c	
+
+
+Cyclops: 
+cheat SpawnDino "Blueprint'/Game/Mods/DarkAndLight/object/Monster/Cyclops/Cyclops_Character_BP.Cyclops_Character_BP'" 1 1 1 10 ( X Y Z LVL (Higher Than 120 May Lag)) 
+ 
+cheat summon Cyclops_Character_bp_c
+
+
+Cyclops Chieftain: 
+cheat SpawnDino "Blueprint'/Game/Mods/DarkAndLight/object/Monster/Cyclops/BossCyclops_Character_BP.BossCyclops_Character_BP'" 1 1 1 10 ( X Y Z LVL (Higher Than 120 May Lag))
+ 
+cheat summon BossCyclops_Character_BP_c
+
+
+Dark Fallen: 
+cheat SpawnDino "Blueprint'/Game/Mods/DarkAndLight/object/Monster/Skeleton_Dark/Skeleton_Dark_Character_BP.Skeleton_Dark_Character_BP'" 1 1 1 10 ( X Y Z LVL (Higher Than 120 May Lag))
+ 
+cheat summon Skeleton_dark_character_bp_c
+
+
+Dark Fire Elemental: 
+cheat SpawnDino "Blueprint'/Game/Mods/DarkAndLight/object/Monster/FireElement_Dark/FireElement_Dark_Character_BP.FireElement_Dark_Character_BP'" 1 1 1 10 ( X Y Z LVL (Higher Than 120 May Lag)) 
+ 
+cheat summon FireElement_Dark_character_bp_c
+
+
+Dark Stone Elemental: 
+cheat SpawnDino "Blueprint'/Game/Mods/DarkAndLight/object/Monster/StoneElement_Dark/StoneElement_Dark_Character_BP.StoneElement_Dark_Character_BP'" 1 1 1 10 ( X Y Z LVL (Higher Than 120 May Lag)) 
+ 
+cheat summon StoneElement_dark_character_bp_c
+
+
+Dark Wind Elemental: 
+cheat SpawnDino "Blueprint'/Game/Mods/DarkAndLight/object/Monster/WindElement_Dark/WindElement_Dark_Character_BP.WindElement_Dark_Character_BP'" 1 1 1 10 ( X Y Z LVL (Higher Than 120 May Lag)) 
+ 
+cheat summon WindElement_Dark_Character_BP_c
+
+
+Dark Wraith: 
+cheat SpawnDino "Blueprint'/Game/Mods/DarkAndLight/object/Monster/Ghost_Dark/Ghost_Dark_Character_BP.Ghost_Dark_Character_BP'" 1 1 1 10 ( X Y Z LVL (Higher Than 120 May Lag)) 
+ 
+cheat summon Ghost_dark_character_bp_c
+
+
+Deer: 
+cheat SpawnDino "Blueprint'/Game/Mods/DarkAndLight/object/Monster/Deer/Deer_Character_BP.Deer_Character_BP'" 1 1 1 10 ( X Y Z LVL (Higher Than 120 May Lag))  
+ 
+cheat summon Deer_character_bp_c
+
+
+Elephant = Mastrodorn: 
+cheat SpawnDino "Blueprint'/Game/Mods/DarkAndLight/object/Monster/Elephant/Elephant_Character_BP.Elephant_Character_BP'" 1 1 1 10 ( X Y Z LVL (Higher Than 120 May Lag))  
+ 
+cheat summon Elephant_Character_bp_c
+
+
+Elite Goblin = Novalie: 
+cheat SpawnDino "Blueprint'/Game/Mods/DarkAndLight/object/Monster/Goblin/EliteGoblin_Character_BP.EliteGoblin_Character_BP'" 1 1 1 10 ( X Y Z LVL (Higher Than 120 May Lag))  ( Attention: All Elites will probably not spawn at your chosen level but have a random level)
+ 
+cheat summon EliteGoblin_Character_BP_c
+
+
+Elite Banshee = Elite Nidhog: Evolving
+cheat SpawnDino "Blueprint'/Game/Mods/DarkAndLight/object/Monster/Banshee/EliteBanshee_Character_BP.EliteBanshee_Character_BP'" 1 1 1 10 ( X Y Z LVL (Higher Than 120 May Lag))  
+ 
+cheat summon EliteBanshee_Character_BP_c
+
+
+Elite Gryphon: Evolving
+cheat SpawnDino "Blueprint'/Game/Mods/DarkAndLight/object/Monster/Gryphon/EliteGryphon_Character_BP.EliteGryphon_Character_BP'" 1 1 1 10 ( X Y Z LVL (Higher Than 120 May Lag))  
+ 
+cheat summon EliteGryphon_character_bp_c
+
+
+Elite Kebo: Evolving
+cheat SpawnDino "Blueprint'/Game/Mods/DarkAndLight/object/Monster/Kodo/EliteKodo_Character_BP.EliteKodo_Character_BP'" 1 1 1 10 ( X Y Z LVL (Higher Than 120 May Lag)) 
+ 
+cheat summon EliteKodo_Character_BP_c
+
+
+Elite Nidhog: Evolving
+cheat SpawnDino "Blueprint’/Game/Mods/DarkAndLight/object/Monster/Banshee/EliteBanshee_Character_BP.EliteBanshee_Character_BP'” 1 1 1 10 ( X Y Z LVL (Higher Than 120 May Lag))  
+ 
+cheat summon elitebanshee_character_bp_c
+
+
+Elite Unicorn: Evolving
+cheat Spawndino "Blueprint'/Game/Mods/DarkAndLight/object/Monster/Unicorn/EliteUnicorn_Character_BP.EliteUnicorn_Character_BP'” 1 1 1 10 ( X Y Z LVL (Higher Than 120 May Lag))
+ 
+cheat summon eliteunicorn_character_bp_c
+
+
+Fallen = Skeleton: 
+cheat SpawnDino "Blueprint'/Game/Mods/DarkAndLight/object/Monster/Skeleton/Skeleton_Character_BP.Skeleton_Character_BP'" 1 1 1 10 ( X Y Z LVL (Higher Than 120 May Lag))  
+ 
+cheat summon Skeleton_Character_BP_c
+
+
+Fey Dragon:
+spawndino "Blueprint'/Game/Mods/DarkAndLight/object/Monster/FairyDragon/FairyDragonAirTemple_Character_BP.FairyDragonAirTemple_Character_BP'" 1 1 1 10 ( X Y Z LVL (Higher Than 120 May Lag))
+ 
+summon FairyDragonAirTemple_character_BP_C
+
+
+Fire Dragon: 
+cheat SpawnDino "Blueprint'/Game/Mods/DarkAndLight/object/Monster/FireDragon/FireDragon_Character_BP.FireDragon_Character_BP'" 1 1 1 10 ( X Y Z LVL (Higher Than 120 May Lag))  
+ 
+cheat summon FireDragon_character_bp_c
+
+
+Fire Elemental: 
+cheat SpawnDino "Blueprint'/Game/Mods/DarkAndLight/object/Monster/FireElement/FireElement_Character_BP.FireElement_Character_BP'" 1 1 1 10 ( X Y Z LVL (Higher Than 120 May Lag))  
+ 
+cheat summon FireElement_Character_bp_c
+
+
+Fire Lord: 
+cheat SpawnDino "Blueprint'/Game/Mods/DarkAndLight/object/Monster/Bigfire/Bigfire_Character_BP.Bigfire_Character_BP'" 1 1 1 10 ( X Y Z LVL (Higher Than 120 May Lag))  
+ 
+cheat summon Bigfire_character_bp_c
+
+
+Ghost Boss: 
+cheat SpawnDino "Blueprint'/Game/Mods/DarkAndLight/Object/Monster/Ghost_Boss/Ghost_boss_Character_BP.Ghost_boss_Character_BP'" 1 1 1 10 ( X Y Z LVL (Higher Than 120 May Lag)) 
+ 
+cheat summon Ghost_boss_Character_BP_c
+
+
+Goblin (with a bag): 
+cheat SpawnDino "Blueprint'/Game/Mods/DarkAndLight/object/Monster/Goblin/Goblin_Character_BP.Goblin_Character_BP'" 1 1 1 10 ( X Y Z LVL (Higher Than 120 May Lag))  
+ 
+cheat summon Goblin_Character_bp_c
+
+
+Goblin: 
+cheat SpawnDino "Blueprint'/Game/Mods/DarkAndLight/object/Monster/Goblin2/Goblin2_Character_BP.Goblin2_Character_BP'" 1 1 1 10 ( X Y Z LVL (Higher Than 120 May Lag))  
+ 
+cheat summon goblin2_character_bp_c
+
+
+Golden Sheep: 
+cheat SpawnDino "Blueprint'/Game/Mods/DarkAndLight/object/Monster/Sheep2/GoldenSheep_Character_BP.GoldenSheep_Character_BP'" 1 1 1 10 ( X Y Z LVL (Higher Than 120 May Lag)) 
+ 
+cheat summon GoldenSheep_Character_BP_c
+
+
+Gryphon: 
+cheat SpawnDino "Blueprint'/Game/Mods/DarkAndLight/object/Monster/Gryphon/Gryphon_Character_BP.Gryphon_Character_BP'" 1 1 1 10 ( X Y Z LVL (Higher Than 120 May Lag)) 
+ 
+cheat summon Gryphon_Character_bp_c
+
+
+Grut ( Cattle): 
+cheat SpawnDino "Blueprint'/Game/Mods/DarkAndLight/object/Monster/cattle/cattle_Character_BP.cattle_Character_BP'" 1 1 1 10 ( X Y Z LVL (Higher Than 120 May Lag))  
+ 
+cheat summon cattle_character_bp_c
+
+
+Griffin = Peregreif: Legendary
+cheat SpawnDino "Blueprint'/Game/Mods/DarkAndLight/object/Monster/Griffin/Griffin_Character_BP.Griffin_Character_BP'" 1 1 1 10 ( X Y Z LVL (Higher Than 120 May Lag)) 
+  
+cheat summon griffin_character_bp_c
+
+
+Horse: 
+cheat SpawnDino "Blueprint'/Game/Mods/DarkAndLight/object/Monster/Horse/Horse_Character_BP.Horse_Character_BP'" 1 1 1 10 ( X Y Z LVL (Higher Than 120 May Lag)) 
+ 
+cheat summon Horse_Character_bp_c
+
+
+Hyena: 
+cheat SpawnDino "Blueprint'/Game/Mods/DarkAndLight/object/Monster/Hyena/Hyena_Character_BP.Hyena_Character_BP'" 1 1 1 10 ( X Y Z LVL (Higher Than 120 May Lag)) 
+ 
+cheat summon Hyena_Character_BP_c
+
+
+Hydrellia = Stirge (Moskito): 
+cheat SpawnDino "Blueprint'/Game/Mods/DarkAndLight/object/Monster/Hydrellia/Hydrellia_Character_BP.Hydrellia_Character_BP'" 1 1 1 10 ( X Y Z LVL (Higher Than 120 May Lag)) 
+ 
+cheat summon Hydrellia_Character_BP_c
+
+
+Ice Elemental: 
+cheat SpawnDino "Blueprint'/Game/Mods/DarkAndLight/object/Monster/FrostDevil/FrostDevil_Character_BP.FrostDevil_Character_BP'" 1 1 1 10 ( X Y Z LVL (Higher Than 120 May Lag)) 
+ 
+cheat summon FrostDevil_character_bp_c
+
+
+Ice Dragon: 
+cheat SpawnDino "Blueprint'/Game/Mods/DarkAndLight/object/Monster/IceDragon/IceDragon_Character_BP.IceDragon_Character_BP'" 1 1 1 10 ( X Y Z LVL (Higher Than 120 May Lag)) 
+ 
+cheat summon IceDragon_Character_BP_c
+
+
+Ice Imp: 
+cheat SpawnDino "Blueprint'/Game/Mods/DarkAndLight/object/Monster/IceElement/IceElement_Character_BP.IceElement_Character_BP'" 1 1 1 10 ( X Y Z LVL (Higher Than 120 May Lag)) 
+ 
+cheat summon IceElement_character_bp_c
+
+
+Ice Wolf: 
+cheat SpawnDino "Blueprint'/Game/Mods/DarkAndLight/object/Monster/Ice_worf/IceWolf_Characte_BP.IceWolf_Characte_BP'" 100 0 0 1
+ 
+cheat summon IceWolf_Characte_BP_c
+
+
+Kebo: 
+cheat SpawnDino "Blueprint'/Game/Mods/DarkAndLight/object/Monster/Kodo/Kodo_Character_BP.Kodo_Character_BP'" 1 1 1 10 ( X Y Z LVL (Higher Than 120 May Lag)) 
+ 
+cheat summon Kebo_character_bp_c
+
+
+Krampus: 
+cheat SpawnDino "Blueprint'/Game/Mods/DarkAndLight/object/Monster/Krampus/Krampus_Character_BP.Krampus_Character_BP'" 1 1 1 10 ( X Y Z LVL (Higher Than 120 May Lag)) 
+ 
+cheat summon Krampus_Character_BP_c
+
+
+Lavatiger: 
+cheat SpawnDino "Blueprint'/Game/Mods/DarkAndLight/object/Monster/Lavatiger/Lavatiger_Character_BP.Lavatiger_Character_BP'" 1 1 1 10 ( X Y Z LVL (Higher Than 120 May Lag))  
+ 
+cheat summon Firetiger_Character_bp_c
+
+
+Light Elemental: 
+cheat SpawnDino "Blueprint'/Game/Mods/DarkAndLight/object/Monster/lightelemental/lightelemental_Character_BP.lightelemental_Character_BP'" 1 1 1 10 ( X Y Z LVL (Higher Than 120 May Lag))  
+ 
+cheat summon lightelemental_character_bp_c
+
+
+Longhorn: 
+cheat SpawnDino "Blueprint'/Game/Mods/DarkAndLight/object/Monster/Longhorn/Longhorn_Character_BP.Longhorn_Character_BP'" 1 1 1 10 ( X Y Z LVL (Higher Than 120 May Lag)) 
+ 
+cheat summon Longhorn_character_bp_c
+
+
+Nightshade = Moth: 
+cheat SpawnDino "Blueprint'/Game/Mods/DarkAndLight/object/Monster/Moth/Moth_Character_BP.Moth_Character_BP'" 1 1 1 10 ( X Y Z LVL (Higher Than 120 May Lag))  
+ 
+cheat summon Moth_character_bp_c
+
+
+Panther: 
+Cheat SpawnDino "Blueprint'/Game/Mods/DarkAndLight/object/Monster/Leopar/Leopard_Character_BP.Leopard_Character_BP'" 1 1 1 10 ( X Y Z LVL (Higher Than 120 May Lag)) 
+ 
+cheat summon Panther_Character_bp_c
+
+
+Pegasus: Legendary
+cheat SpawnDino "Blueprint'/Game/Mods/DarkAndLight/object/Monster/pegasus/pegasus_Character_BP.pegasus_Character_BP'" 1 1 1 10 ( X Y Z LVL (Higher Than 120 May Lag)) 
+ 
+cheat summon Pegasus_Character_bp_c
+
+
+Peregreif: Legendary
+cheat SpawnDino "Blueprint'/Game/Mods/DarkAndLight/object/Monster/Griffin/Griffin_Character_BP.Griffin_Character_BP'" 1 1 1 10 ( X Y Z LVL (Higher Than 120 May Lag))
+ 
+cheat summon griffin_character_bp_c
+
+
+Piranha (spawn in water): 
+cheat SpawnDino "Blueprint’/Game/Mods/DarkAndLight/object/Monster/Piranha/Piranha_Character_BP.Piranha_Character_BP'” 1 1 1 10 ( X Y Z LVL (Higher Than 120 May Lag)) 
+ 
+cheat summon piranha_character_bp_c
+
+
+Reindeer:
+cheat SpawnDino "Blueprint'/Game/Mods/DarkAndLight/object/Monster/Deer/Reindeer_Character_BP.Reindeer_Character_BP'" 1 1 1 10 ( X Y Z LVL (Higher Than 120 May Lag))
+ 
+cheat summon Reindeer_Character_BP_c
+
+
+Savage Cyclops: 
+cheat SpawnDino "Blueprint'/Game/Mods/DarkAndLight/object/Monster/Savage_Cyclops/Savage_Cyclops_Character_BP.Savage_Cyclops_Character_BP'" 1 1 1 10 ( X Y Z LVL (Higher Than 120 May Lag))  
+ 
+cheat summon Savage_Cyclops_Character_bp_c
+
+
+Sheep: 
+cheat SpawnDino "Blueprint'/Game/Mods/DarkAndLight/object/Monster/Sheep/Sheep_Character_BP.Sheep_Character_BP'" 1 1 1 10 ( X Y Z LVL (Higher Than 120 May Lag))  
+ 
+cheat summon Sheep_Character_bp_c
+
+
+Scorpida (Big Spider): 
+cheat SpawnDino "Blueprint'/Game/Mods/DarkAndLight/object/Monster/Spider2/Spider2_Character_BP.Spider2_Character_BP'" 1 1 1 10 ( X Y Z LVL (Higher Than 120 May Lag)) 
+ 
+cheat summon Spider2_character_bp_c
+
+
+SkyFortress:
+cheat SpawnDino "Blueprint'/Game/Mods/DarkAndLight/Object/Monster/SkyFortress/SkyFortress_Character_BP.SkyFortress_Character_BP'" 1 1 1 10 ( X Y Z LVL (Higher Than 120 May Lag))
+ 
+cheat summon SkyFortress_Character_BP_c
+
+
+Stag (Cattle): 
+cheat SpawnDino "Blueprint'/Game/Mods/DarkAndLight/object/Monster/Cattle/Cattle_Character_BP.Cattle_Character_BP'" 1 1 1 10 ( X Y Z LVL (Higher Than 120 May Lag)) 
+ 
+cheat summon cattle_character_bp_c
+
+
+Spider: 
+cheat SpawnDino "Blueprint'/Game/Mods/DarkAndLight/object/Monster/Spider1/Spider1_Character_BP.Spider1_Character_BP'" 1 1 1 10 ( X Y Z LVL (Higher Than 120 May Lag)) 
+ 
+cheat summon Spider1_character_bp_c
+
+
+Stirge (Moscito): 
+cheat SpawnDino "Blueprint'/Game/Mods/DarkAndLight/object/Monster/Hydrellia/Hydrellia_Character_BP.Hydrellia_Character_BP'" 1 1 1 10 ( X Y Z LVL (Higher Than 120 May Lag)) 
+ 
+cheat summon Hydrellia_Character_bp_c
+
+
+Stone Elemental: 
+cheat SpawnDino "Blueprint'/Game/Mods/DarkAndLight/object/Monster/StoneElement/StoneElement_Character_BP.StoneElement_Character_BP'" 1 1 1 10 ( X Y Z LVL (Higher Than 120 May Lag)) 
+ 
+cheat summon StoneElement_dark_character_bp_c
+
+
+Treant: 
+cheat SpawnDino "Blueprint'/Game/Mods/DarkAndLight/object/Monster/Treant/Treant_Character_BP.Treant_Character_BP'" 1 1 1 10 ( X Y Z LVL (Higher Than 120 May Lag)) 
+ 
+cheat summon Treant_Character_bp_c
+
+
+Turkey: 
+cheat SpawnDino "Blueprint'/Game/Mods/DarkAndLight/object/Monster/Turkey/Turkey_Character_BP.Turkey_Character_BP'" 1 1 1 10 ( X Y Z LVL (Higher Than 120 May Lag)) 
+ 
+cheat summon Turkey_Character_BP_c
+
+
+Unicorn: 
+cheat SpawnDino "Blueprint'/Game/Mods/DarkAndLight/object/Monster/Unicorn/Unicorn_Character_BP.Unicorn_Character_BP'" 1 1 1 10 ( X Y Z LVL (Higher Than 120 May Lag))  (seems to be only tameable by Elves)
+ 
+cheat summon Unicorn_Character_bp_c
+
+
+Vicious Hyena: 
+cheat SpawnDino "Blueprint'/Game/Mods/DarkAndLight/object/Monster/Hyena/Hyaena/Hyaena_Character_BP.Hyaena_Character_BP'" 1 1 1 10 ( X Y Z LVL (Higher Than 120 May Lag)) 
+ 
+cheat summon Hyaena_Character_bp_c
+
+
+Vrock (Twoheaded Bird): 
+cheat SpawnDino "Blueprint'/Game/Mods/DarkAndLight/object/Monster/twohead/twohead_Character_BP.twohead_Character_BP'" 1 1 1 10 ( X Y Z LVL (Higher Than 120 May Lag)) 
+ 
+cheat summon twohead_character_bp_c
+
+
+Water Element: 
+cheat SpawnDino "Blueprint'/Game/Mods/DarkAndLight/object/Monster/WaterElement/WaterElement_Character_BP.WaterElement_Character_BP'" 1 1 1 10 ( X Y Z LVL (Higher Than 120 May Lag))  
+ 
+cheat summon WaterElement_character_bp_c
+
+
+Werewolf: 
+cheat SpawnDino "Blueprint'/Game/Mods/DarkAndLight/object/Monster/Werewolf/Werewolf_Character_BP.Werewolf_Character_BP'" 1 1 1 10 ( X Y Z LVL (Higher Than 120 May Lag))
+ 
+cheat summon Werewolf_Character_BP_c
+
+
+Wind Elemental: 
+cheat SpawnDino "Blueprint'/Game/Mods/DarkAndLight/object/Monster/Windelement/Windelement_Character_BP.Windelement_Character_BP'" 1 1 1 10 ( X Y Z LVL (Higher Than 120 May Lag))  
+
+cheat summon Windelement_character_bp_c
+
+
+Windrider (Huge powerful Dragon) Fafnir: Legendary
+cheat SpawnDino "Blueprint'/Game/Mods/DarkAndLight/object/Monster/leonopteryx/leonopteryx_Character_BP.leonopteryx_Character_BP'" 1 1 1 10 ( X Y Z LVL (Higher Than 120 May Lag))  
+
+cheat summon leonopteryx_Character_bp_c
+
+
+Wolf: 
+cheat SpawnDino "Blueprint'/Game/Mods/DarkAndLight/object/Monster/Wolf/Wolf_Character_BP.Wolf_Character_BP'" 1 1 1 10 ( X Y Z LVL (Higher Than 120 May Lag)) 
+
+cheat summon Wolf_Character_bp_c
+
+
+Wraith = Reaper ( Ghost): 
+cheat SpawnDino "Blueprint'/Game/Mods/DarkAndLight/object/Monster/Ghost/Ghost_Character_BP.Ghost_Character_BP'" 1 1 1 10 ( X Y Z LVL (Higher Than 120 May Lag)) 
+
+cheat summon Ghost_Character_bp_c
+
+
+Wyvern (Small Dragon): 
+cheat SpawnDino "Blueprint'/Game/Mods/DarkAndLight/object/Monster/Wyvern/Wyvern_Character_BP.Wyvern_Character_BP'" 1 1 1 10 ( X Y Z LVL (Higher Than 120 May Lag)) 
+
+cheat summon Wyvern_Character_bp_c
+
+
+Yeti: 
+cheat SpawnDino "Blueprint'/Game/Mods/DarkAndLight/object/Monster/Yeti/Yeti_Character_BP.Yeti_Character_BP'" 1 1 1 10 ( X Y Z LVL (Higher Than 120 May Lag))  
+
+cheat summon Yeti_character_bp_c
+
+
+Yeti King: 
+cheat SpawnDino "Blueprint'/Game/Mods/DarkAndLight/Object/Monster/YetiKing/YetiKing_Character_BP.YetiKing_Character_BP'" 1 1 1 10 ( X Y Z LVL (Higher Than 120 May Lag)) 
+
+cheat summon YetiKing_Character_BP_c
+</Creatures>
+
+<Mods>
+MODS FROM HERE 
+GiveItem # rarity BP
+<AugmentedSpyglass>
+cheat giveitem "/Game/Mods/ErusAugmentedTelescope/AugmentedSpyglass/Dal_PrimalItem_WeaponAugmentedSpyGlass.Dal_PrimalItem_WeaponAugmentedSpyGlass" 1 0 0
+
+cheat giveitem "/Game/Mods/ErusAugmentedTelescope/ASPotion/DAL_PrimalItemConsumable_ASPotion.DAL_PrimalItemConsumable_ASPotion" 1 0 0
+
+cheat giveitem "/Game/Mods/ErusAugmentedTelescope/ASPotionTillDeath/DAL_PrimalItemConsumable_ASPotionUntilDeath.DAL_PrimalItemConsumable_ASPotionUntilDeath" 1 0 0
+</AugmentedSpyglass>
+
+<BetterGrinder>
+Auto Grinder
+Giveitem "/Game/Mods/Better_Grinder/GrinderBP/Better_DAL_PrimalItemStructure_HighLevel_MortarAndPestle.Better_DAL_PrimalItemStructure_HighLevel_MortarAndPestle" 1 1 0
+</BetterGrinder>
+
+<BuildablesWellsAndMore>
+Stone Well
+Description: A simple stone well which basically acts as an unlimited water supply. You can drink directly from it as well as fill bottles from it.
+
+cheat giveitem "/Game/Mods/Buildables/Blueprints/Structures/Wells/Buildables_PrimalItemStructure_StoneWell.Buildables_PrimalItemStructure_StoneWell" 1 0 0
+
+Stone Pump Well
+Description: This acts exactly as the Stone Well, but allows you to also connect a pipe to it, so that you can transport this water and use it to irrigate crops. No more running intakes long distances from the water and making things unsightly!
+
+cheat giveitem "/Game/Mods/Buildables/Blueprints/Structures/Wells/Buildables_PrimalItemStructure_PumpWell.Buildables_PrimalItemStructure_PumpWell" 1 0 0
+</BuildablesWellsAndMore>
+
+<BetterForge>
+Better Forge (Lava Forge) Spawn ID
+giveitem "/Game/Mods/FasterForge/FasterForge/DAL_PrimalItemStructure_Forge_FasterForge.DAL_PrimalItemStructure_Forge_FasterForge" 1 0 0
+
+Magical Forge Spawn ID
+giveitem "/Game/Mods/FasterForge/Magical_Forge/DAL_PrimalItemStructure_Forge_MagicalForge.DAL_PrimalItemStructure_Forge_MagicalForge" 1 0 0
+</BetterForge>
+
+<CelestialArcaneMagic>
+Level 20:
+
+"/Game/Mods/AncientMagic/Magic/MagicBench/PrimalItemStructure_ArcaneMagicWorkbench.PrimalItemStructure_ArcaneMagicWorkbench"
+
+"/Game/Mods/AncientMagic/Magic/StarBurst/PrimalItemAmmo_StaffHead_StarBurst.PrimalItemAmmo_StaffHead_StarBurst"
+
+Level 30:
+
+"/Game/Mods/AncientMagic/Magic/SolarFlare/PrimalItemAmmo_StaffHead_SolarFlare.PrimalItemAmmo_StaffHead_SolarFlare"
+
+Level 35:
+"/Game/Mods/AncientMagic/Magic/HeliosArmor/PrimalItemConsumable_HeliosArmor.PrimalItemConsumable_HeliosArmor"
+
+"/Game/Mods/AncientMagic/Magic/SelenesBlessing/PrimalItemConsumable_SelenesBlessingCrystal.PrimalItemConsumable_SelenesBlessingCrystal"
+
+"/Game/Mods/AncientMagic/SelenesCrystal/PrimalItemConsumable_SelenasCrystal.PrimalItemConsumable_SelenasCrystal"
+
+Level 45:
+"/Game/Mods/AncientMagic/Magic/SuperNova/PrimalItemAmmo_StaffHead_SuperNova.PrimalItemAmmo_StaffHead_SuperNova"
+
+Level 55:
+"/Game/Mods/AncientMagic/Magic/EponasCleanse/PrimalItemAmmo_StaffHead_EponasCleanse.PrimalItemAmmo_StaffHead_EponasCleanse"
+</CelestialArcaneMagic>
+
+<CelestialWeapons>
+Workbench
+Blueprint'/Game/Mods/StarWeapons/CelestialTable/PrimalItemStructure_CelestialWorkbench.PrimalItemStructure_CelestialWorkbench'
+
+
+Melee Weapons
+Blueprint'/Game/Mods/StarWeapons/ArawnAxe/PrimalItem_ArawnAxe.PrimalItem_ArawnAxe'
+Blueprint'/Game/Mods/StarWeapons/AkashasBlade/PrimalItem_WeaponAkashasBladeStaff.PrimalItem_WeaponAkashasBladeStaff'
+Blueprint'/Game/Mods/StarWeapons/AndromedaBlade/PrimalItem_WeaponAndromedaBlade.PrimalItem_WeaponAndromedaBlade'
+Blueprint'/Game/Mods/StarWeapons/CelestialDagger/PrimalItem_WeaponCelestialDagger.PrimalItem_WeaponCelestialDagger'
+Blueprint'/Game/Mods/StarWeapons/MoonLightStaff/PrimalItem_WeaponMoonLightStaff.PrimalItem_WeaponMoonLightStaff'
+Blueprint'/Game/Mods/StarWeapons/MorningStarMace/PrimalItem_WeaponMorningStarMace.PrimalItem_WeaponMorningStarMace'
+Blueprint'/Game/Mods/StarWeapons/VoidGreatsword/PrimalItem_VoidGreatSword.PrimalItem_VoidGreatSword'
+
+
+Armor
+Blueprint'/Game/Mods/StarWeapons/CelestialShield/PrimalItemArmor_CelestialShield.PrimalItemArmor_CelestialShield'
+
+
+Ranged
+Blueprint'/Game/Mods/StarWeapons/VijayaBow/PrimalItem_WeaponVijayaBow.PrimalItem_WeaponVijayaBow'
+Blueprint'/Game/Mods/StarWeapons/VijayaBow/CelestialArrows/PrimalItemAmmo_ArrowCelestial.PrimalItemAmmo_ArrowCelestial'
+
+
+Ranged Magic
+Blueprint'/Game/Mods/StarWeapons/StardustStaff/PrimalItem_WeaponStardustStaff.PrimalItem_WeaponStardustStaff'
+Blueprint'/Game/Mods/StarWeapons/AkashasBlade/PrimalItem_WeaponAkashasBladeStaff.PrimalItem_WeaponAkashasBladeStaff'
+Blueprint'/Game/Mods/StarWeapons/AkashasBlade/CelestialShower/PrimalItemAmmo_StaffHead_HeavensFall.PrimalItemAmmo_StaffHead_HeavensFall'
+</CelestialWeapons>
+
+<DivineWeapons>
+Crafting Structures:
+Blueprint'/Game/Mods/DraconicWeapons/DivineTable/PrimalItemStructure_DivineWorkbench.PrimalItemStructure_DivineWorkbench'
+Blueprint'/Game/Mods/DraconicWeapons/DivineTable/DivineForge/PrimalItemStructure_DivineForge.PrimalItemStructure_DivineForge'
+
+Demi-God Weapons:
+Blueprint'/Game/Mods/DraconicWeapons/EldraxSword/PrimalItem_WeaponEldraxSword.PrimalItem_WeaponEldraxSword'
+Blueprint'/Game/Mods/DraconicWeapons/FafnerSpear/PrimalItem_WeaponFafnerSpear.PrimalItem_WeaponFafnerSpear'
+Blueprint'/Game/Mods/DraconicWeapons/GoddessStaff/PrimalItem_WeaponGoddessStaff.PrimalItem_WeaponGoddessStaff'
+Blueprint'/Game/Mods/DraconicWeapons/TharosSword/PrimalItem_WeaponTharosSword.PrimalItem_WeaponTharosSword'
+Blueprint'/Game/Mods/DraconicWeapons/ZunusClaw/PrimalItem_WeaponZunusClaw.PrimalItem_WeaponZunusClaw'
+
+Armor:
+Blueprint'/Game/Mods/DraconicWeapons/DragonShield/PrimalItemArmor_DragonShield.PrimalItemArmor_DragonShield'
+
+Divine God Weapons:
+Blueprint'/Game/Mods/DraconicWeapons/AndrastesAxe/PrimalItem_AndrastesAxe.PrimalItem_AndrastesAxe'
+Blueprint'/Game/Mods/DraconicWeapons/BahamutsEssence/PrimalItem_WeaponBahamutsEssence.PrimalItem_WeaponBahamutsEssence'
+Blueprint'/Game/Mods/DraconicWeapons/AlthenasStaff/PrimalItem_WeaponAlthenasWand.PrimalItem_WeaponAlthenasWand'
+Blueprint'/Game/Mods/DraconicWeapons/ErebusGreatsword/PrimalItem_ErebusGreatSword.PrimalItem_ErebusGreatSword'
+Blueprint'/Game/Mods/DraconicWeapons/ZephyrScythe/PrimalItem_WeaponZephyrScythe.PrimalItem_WeaponZephyrScythe'
+Blueprint'/Game/Mods/DraconicWeapons/AetherialHammer/PrimalItem_AetherialHammer.PrimalItem_AetherialHammer'
+</DivineWeapons>
+
+<DnLWaveRider>
+Actual WaveRider:
+"/Game/Mods/WaveRider/WaveRiderLoc/Boat_Character_BP.Boat_Character_BP"
+
+WaveRider Blueprint
+"/Game/Mods/WaveRider/WaveRiderLoc/DAL_PrimalItem_Boat.DAL_PrimalItem_Boat"
+
+WaveRider Saddle
+"/Game/Mods/WaveRider/WaveRiderLoc/DAL_PrimalItemArmor_Boat.DAL_PrimalItemArmor_Boat"
+</DnLWaveRider>
+
+<EnchantedGardening>
+Enchanted Gardener
+cheat giveitem "/Game/Mods/MagicGarden/Collector/DAL_PrimalItemStructure_EG_Collector.DAL_PrimalItemStructure_EG_Collector" 1 0 0
+
+Huge Enchanted Compost Bin
+cheat giveitem "/Game/Mods/MagicGarden/HugeCompost/DAL_PrimalItemStructure_CompostBin_Enchanted_Huge.DAL_PrimalItemStructure_CompostBin_Enchanted_Huge" 1 0 0
+
+Large Enchanted Compost Bin
+cheat giveitem "/Game/Mods/MagicGarden/LargeCompost/DAL_PrimalItemStructure_CompostBin_Enchanted.DAL_PrimalItemStructure_CompostBin_Enchanted" 1 0 0
+
+Medium Enchanted Compost Bin
+cheat giveitem "/Game/Mods/MagicGarden/MediumCompost/DAL_PrimalItemStructure_CompostBin_EnchantedMedium.DAL_PrimalItemStructure_CompostBin_EnchantedMedium" 1 0 0
+
+Small Enchanted Compost Bin
+cheat giveitem "/Game/Mods/MagicGarden/SmallCompost/DAL_PrimalItemStructure_CompostBin_EnchantedSmall.DAL_PrimalItemStructure_CompostBin_EnchantedSmall" 1 0 0
+</EnchantedGardening>
+
+<EnchantedStructures>
+Enchanted Building Consumable
+cheat giveitem "/Game/Mods/EnchantedStructures/ES_PrimalItemConsumable_BuildingBuffConsumable.ES_PrimalItemConsumable_BuildingBuffConsumable" 1 0 0
+
+Builder's Spell
+cheat giveitem "/Game/Mods/EnchantedStructures/BuildingWand/DAL_PrimalItemAmmo_StaffHead_BuildingSpell.DAL_PrimalItemAmmo_StaffHead_BuildingSpell" 1 0 0
+
+Builder's Spell - Common
+cheat giveitem "/Game/Mods/EnchantedStructures/BuildingWand_Common/DAL_PrimalItemAmmo_StaffHead_BuildingSpell_common.DAL_PrimalItemAmmo_StaffHead_BuildingSpell_common" 1 0 0
+</EnchantedStructures>
+
+<NoDuraReusableItems>
+Unlimited Pilliar Torch
+cheat giveitem "/Game/Mods/itemx/Items/Structure/torch/DAL_PrimalItemStructure_PilliarTorch_x.DAL_PrimalItemStructure_PilliarTorch_x" 1 0 0
+
+Unlimited Standing Torce
+cheat giveitem "/Game/Mods/itemx/Items/Structure/torch/DAL_PrimalItemStructure_StandingTorch_x.DAL_PrimalItemStructure_StandingTorch_x" 1 0 0
+
+Unlimited Wall Torce
+cheat giveitem "/Game/Mods/itemx/Items/Structure/torch/DAL_PrimalItemStructure_WallTorch_x.DAL_PrimalItemStructure_WallTorch_x" 1 0 0
+
+Unlimited Bonfire
+cheat giveitem "/Game/Mods/itemx/Items/Structure/torch/DAL_ItemBonfire_Dance_x.DAL_ItemBonfire_Dance_x'" 1 0 0
+
+Unlimited Oil Lamp
+cheat giveitem "/Game/Mods/itemx/Items/Structure/torch/DAL_Item_OilLamp_Medium_Interior_x.DAL_Item_OilLamp_Medium_Interior_x" 1 0 0
+
+Unlimited Goblin Fire
+cheat giveitem "/Game/Mods/itemx/Weapons/GoblinTower/DAL_PrimalItemStructure_Tower_GoblinFire_x.DAL_PrimalItemStructure_Tower_GoblinFire_x" 1 0 0
+
+Unlimited Goblin Tower
+cheat giveitem "/Game/Mods/itemx/Weapons/GoblinTower/DAL_PrimalItemStructure_Tower_Goblin_x.DAL_PrimalItemStructure_Tower_Goblin_x" 1 0 0
+
+Unlimited Forge
+cheat giveitem "/Game/Mods/itemx/Items/Structure/forge/DAL_PrimalItemStructure_Forge_x.DAL_PrimalItemStructure_Forge_x" 1 0 0
+
+Unlimited Bee Tower
+cheat giveitem "/Game/Mods/itemx/Items/Structure/bench/DAL_Item_Comb_Bee_Tower_x.DAL_Item_Comb_Bee_Tower_x" 1 0 0
+
+
+cheat giveitem "/Game/Mods/itemx/Items/Structure/forge/DAL_PrimalItemStructure_Finery_x.DAL_PrimalItemStructure_Finery_x" 1 0 0
+
+***********[Armor]***********
+Unlimited
+cheat giveitem "/Game/Mods/itemx/Items/Armor/DarkArmor/DAL_PrimalItemArmor_DarkArmorBoots_x.DAL_PrimalItemArmor_DarkArmorBoots_x" 1 0 0
+
+Unlimited
+cheat giveitem "/Game/Mods/itemx/Items/Armor/DarkArmor/DAL_PrimalItemArmor_DarkArmorGloves_x.DAL_PrimalItemArmor_DarkArmorGloves_x" 1 0 0
+
+Unlimited
+cheat giveitem "/Game/Mods/itemx/Items/Armor/DarkArmor/DAL_PrimalItemArmor_DarkArmorHelmet_x.DAL_PrimalItemArmor_DarkArmorHelmet_x" 1 0 0
+
+Unlimited
+cheat giveitem "/Game/Mods/itemx/Items/Armor/DarkArmor/DAL_PrimalItemArmor_DarkArmorPants_x.DAL_PrimalItemArmor_DarkArmorPants_x" 1 0 0
+
+Unlimited
+cheat giveitem "/Game/Mods/itemx/Items/Armor/DarkArmor/DAL_PrimalItemArmor_DarkArmorShirt_x.DAL_PrimalItemArmor_DarkArmorShirt_x" 1 0 0
+
+Unlimited
+cheat giveitem "/Game/Mods/itemx/Items/Armor/FireArmor/DAL_PrimalItemArmor_LavaBoots_x.DAL_PrimalItemArmor_LavaBoots_x" 1 0 0
+
+Unlimited
+cheat giveitem "/Game/Mods/itemx/Items/Armor/FireArmor/DAL_PrimalItemArmor_LavaGloves_x.DAL_PrimalItemArmor_LavaGloves_x" 1 0 0
+
+Unlimited
+cheat giveitem "/Game/Mods/itemx/Items/Armor/FireArmor/DAL_PrimalItemArmor_LavaHelmet_x.DAL_PrimalItemArmor_LavaHelmet_x" 1 0 0
+
+Unlimited
+cheat giveitem "/Game/Mods/itemx/Items/Armor/FireArmor/DAL_PrimalItemArmor_LavaPants_x.DAL_PrimalItemArmor_LavaPants_x" 1 0 0
+
+Unlimited
+cheat giveitem "/Game/Mods/itemx/Items/Armor/FireArmor/DAL_PrimalItemArmor_LavaShirt_x.DAL_PrimalItemArmor_LavaShirt_x" 1 0 0
+
+Unlimited
+cheat giveitem "/Game/Mods/itemx/Items/Armor/IceArmor/DAL_PrimalItemArmor_IcewindBoots_x.DAL_PrimalItemArmor_IcewindBoots_x" 1 0 0
+
+Unlimited
+cheat giveitem "/Game/Mods/itemx/Items/Armor/IceArmor/DAL_PrimalItemArmor_IcewindGloves_x.DAL_PrimalItemArmor_IcewindGloves_x" 1 0 0
+
+Unlimited
+cheat giveitem "/Game/Mods/itemx/Items/Armor/IceArmor/DAL_PrimalItemArmor_IcewindHelmet_x.DAL_PrimalItemArmor_IcewindHelmet_x" 1 0 0
+
+Unlimited
+cheat giveitem "/Game/Mods/itemx/Items/Armor/IceArmor/DAL_PrimalItemArmor_IcewindPants_x.DAL_PrimalItemArmor_IcewindPants_x" 1 0 0
+
+Unlimited
+cheat giveitem "/Game/Mods/itemx/Items/Armor/IceArmor/DAL_PrimalItemArmor_IcewindShirt_x.DAL_PrimalItemArmor_IcewindShirt_x" 1 0 0
+
+***********[Reuseable]***********
+(Parachute)
+cheat giveitem "/Game/Mods/itemx/Items/useable/Dal_PrimalItemConsumableBuff_Parachute_x.Dal_PrimalItemConsumableBuff_Parachute_x" 1 0 0
+
+[Resources] (Spoils into Large Fertilizer)
+cheat giveitem "/Game/Mods/itemx/Items/useable/DAL_PrimalItemConsumable_fertilizer_x.DAL_PrimalItemConsumable_fertilizer_x" 1 0 0
+
+cheat giveitem "/Game/Mods/itemx/Items/useable/DAL_PrimalItemConsumable_Hotspring_x.DAL_PrimalItemConsumable_Hotspring_x" 1 0 0
+
+***********[Weapons]***********
+cheat giveitem "/Game/Mods/itemx/Weapons/Bow/Dal_PrimalItem_WeaponBow_x.Dal_PrimalItem_WeaponBow_x" 1 0 0
+
+cheat giveitem "/Game/Mods/itemx/Weapons/Bow/Dal_PrimalItem_WeaponCrossbow_x.Dal_PrimalItem_WeaponCrossbow_x" 1 0 0
+
+cheat giveitem "/Game/Mods/itemx/Weapons/Bow/Dal_PrimalItem_WeaponPowerBow_x.Dal_PrimalItem_WeaponPowerBow_x" 1 0 0
+
+***********[Arrow] (Craft 10 per Once)***********
+
+cheat giveitem "/Game/Mods/itemx/Weapons/Bow/DAL_PrimalItem_IronHook_BP_x.DAL_PrimalItem_IronHook_BP_x" 1 0 0
+
+cheat giveitem "/Game/Mods/itemx/Weapons/Bow/Dal_PrimalItemAmmo_ArrowDark_x.Dal_PrimalItemAmmo_ArrowDark_x" 1 0 0
+
+cheat giveitem "/Game/Mods/itemx/Weapons/Bow/Dal_PrimalItemAmmo_ArrowLight_x.Dal_PrimalItemAmmo_ArrowLight_x" 1 0 0
+
+cheat giveitem "/Game/Mods/itemx/Weapons/Bow/DAL_PrimalItemAmmo_RopeHook_BP_x.DAL_PrimalItemAmmo_RopeHook_BP_x" 1 0 0
+
+cheat giveitem "/Game/Mods/itemx/Weapons/Bow/Dal_PrimalItemAmmo_ArrowWind_x.Dal_PrimalItemAmmo_ArrowWind_x" 1 0 0
+
+cheat giveitem "/Game/Mods/itemx/Weapons/Bow/Dal_PrimalItemAmmo_ArrowEarth_x.Dal_PrimalItemAmmo_ArrowEarth_x" 1 0 0
+
+cheat giveitem "/Game/Mods/itemx/Weapons/Bow/Dal_PrimalItemAmmo_ArrowFire1_x.Dal_PrimalItemAmmo_ArrowFire1_x" 1 0 0
+
+cheat giveitem "/Game/Mods/itemx/Weapons/Bow/Dal_PrimalItemAmmo_ArrowStone_Poison_x.Dal_PrimalItemAmmo_ArrowStone_Poison_x" 1 0 0
+
+cheat giveitem "/Game/Mods/itemx/Weapons/Bow/Dal_PrimalItemAmmo_ArrowStone_x.Dal_PrimalItemAmmo_ArrowStone_x" 1 0 0
+
+cheat giveitem "/Game/Mods/itemx/Weapons/Bow/Dal_PrimalItemAmmo_ArrowWater_x.Dal_PrimalItemAmmo_ArrowWater_x" 1 0 0
+
+***********[Admin Stuff]***********
+Admin Arrow (Massive damage to delete things) (!!Massive Explosion!!)
+cheat giveitem "/Game/Mods/itemx/Weapons/Bow/Dal_PrimalItemAmmo_ArrowFire1Admin_x.Dal_PrimalItemAmmo_ArrowFire1Admin_x" 1 0 0
+</NoDuraReusableItems>
+
+<ShieldSlotPassives>
+CrafterBooster
+cheat Giveitem "/Game/Mods/ShieldSlotUtility/CrafterBoost/Dal_PrimalItemArmor_Crafterboost.Dal_PrimalItemArmor_Crafterboost" 1 0 0
+
+DamageBooster
+cheat Giveitem "/Game/Mods/ShieldSlotUtility/DamageBoost/Dal_PrimalItemArmor_Spell.Dal_PrimalItemArmor_Spell" 1 0 0
+
+ForceShield
+cheat Giveitem "/Game/Mods/ShieldSlotUtility/ForceShield/Dal_PrimalItemArmor_ForceShield.Dal_PrimalItemArmor_ForceShield" 1 0 0
+
+RangerQuiver
+cheat Giveitem "/Game/Mods/ShieldSlotUtility/RangerQuiver/Dal_PrimalItemArmor_HideQuiver.Dal_PrimalItemArmor_HideQuiver" 1 0 0
+
+WarHorn
+cheat Giveitem "/Game/Mods/ShieldSlotUtility/WarHorn/Dal_PrimalItemArmor_Warhorn.Dal_PrimalItemArmor_Warhorn" 1 0 0
+</ShieldSlotPassives>
+</Mods>
